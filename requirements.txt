@@ -1,0 +1,6 @@
+aiogram==2.25.1
+matplotlib==3.7.2
+pandas==2.0.3
+python-telegram-bot==20.7
+python_binance==1.0.18
+ta==0.11.0
