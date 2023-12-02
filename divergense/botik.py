@@ -1,5 +1,4 @@
 from aiogram import Bot, Dispatcher, executor, types
-from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 from binance.client import Client
 from ta.momentum import RSIIndicator
