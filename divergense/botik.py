@@ -6,7 +6,6 @@ from ta.momentum import RSIIndicator
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
-import logging
 
 # Ваши данные для входа в Binance API
 api_key = 'UO04Q1CqkMCVadizZ5ipbGwBCx7UhpDCeFrBBm3Z9VJfRHEssY6Y6fDLlfhuZuS3'
