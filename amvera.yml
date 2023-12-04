@@ -9,3 +9,4 @@ run:
   scriptName: divergense/botik.py
   persistenceMount: /media
   containerPort: 80
+
