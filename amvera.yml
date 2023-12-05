@@ -4,11 +4,6 @@ meta:
     name: pip
     version: 3.11.4
 build:
-  context: .
-  commands:
-    - python3 -m venv venv
-    - source venv/bin/activate
-    - pip install -r requirements.txt
   requirementsPath: requirements.txt
 run:
   scriptName: divergense/botik.py
